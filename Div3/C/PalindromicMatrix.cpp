@@ -1,6 +1,4 @@
-/*
-url: https://codeforces.com/contest/1118/problem/C
-*/
+/* url: https://codeforces.com/contest/1118/problem/C */
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
